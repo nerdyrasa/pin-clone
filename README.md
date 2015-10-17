@@ -16,4 +16,4 @@ A JSON endpoint is available at /api/pin
 
 PyCharm Web Magic: Building a Pin Clone [youtube video](https://www.youtube.com/watch?v=2geC50roans)
 
-JetBrains is right: Tools Matter! The primary motivation for following the tutorial and building this simple pin clone project was to familiarize myself with PyCharm. Using the right tools, simplifies development and let's you focus on the most important parts of development.
+JetBrains is right: Tools Matter! The primary motivation for following the tutorial and building this simple pin clone project was to familiarize myself with PyCharm. Tools simplify repetitive development work and let you focus on critical development tasks.
